@@ -1,0 +1,375 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+  background-image: url(https://static.vecteezy.com/system/resources/previews/008/544/019/large_2x/vintage-damask-pattern-design-free-vector.jpg);
+  border: 3px solid lightblue;
+  border-bottom: 8px solid lightblue;
+  border-radius: 80px;
+  margin-top: 0px;
+  margin-right: 20px;
+   box-shadow: 0 7px 5px rgb(117, 182, 243);
+}
+
+.pala-satu{
+  font-size: 20px;
+  color: white;
+}
+
+.logo{
+ width: 50px;
+ height: 50px;
+}
+
+nav {
+  float: left;
+  width: 20%;
+  height: 1390px; 
+  background: #3d3939;
+  padding: 10px;
+  text-align: center;
+  box-sizing: content-box;
+  color: white;
+  background-image: url(https://static.vecteezy.com/system/resources/previews/008/544/019/large_2x/vintage-damask-pattern-design-free-vector.jpg);
+  background-size: cover;
+  margin-top: 0px;
+  margin-right: 20px;
+}
+
+img.icon-img{
+    width: 40px;
+    height: 40px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.button {
+  border: none;
+  color: rgb(255, 255, 255);
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  z-index: 1;
+  font-size: 16px;
+  cursor: pointer;
+  transition-duration: 0.4s;
+  border-radius: 15px;
+  width: 90%;
+  
+
+}
+
+.noline-satu{
+   text-decoration: none;
+   
+}
+
+.noline-dua{
+   text-decoration: none;
+}
+
+
+.button1 {
+  background-color: white;
+  color: black;
+  border: 2px solid lightblue;
+  text-decoration: none;
+ 
+
+
+}
+.button1:hover{
+  background-color: lightblue;
+  color: black;
+  text-decoration: none;
+  box-shadow: 0 12px 16px 0 rgb(254, 251, 251),0 17px 50px 0 rgb(255, 255, 255);
+
+}
+
+.button2 {
+  background-color: white;
+  color: black;
+  border: 2px solid lightblue;
+  text-decoration: none;
+
+
+
+}
+.button2:hover{
+  background-color: lightblue;
+  color: black;
+  text-decoration: none;
+  box-shadow: 0 12px 16px 0 rgb(254, 251, 251),0 17px 50px 0 rgb(255, 255, 255);
+
+}
+
+
+
+body{
+    background-image: url(https://ae01.alicdn.com/kf/HTB1nAkRi9YH8KJjSspdq6ARgVXa4/Putih-abu-abu-abu-abu-pola-Bunga-damask-Latar-Belakang-Vinyl-kain-foto-wall-backdrop-Komputer.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+
+
+a{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.table-keren{
+  border-collapse: collapse;
+  width: 100%;
+  padding-right: 100px;
+  background-color: whitesmoke;
+  padding: 5px;
+  border-radius: 20px
+  
+  
+}
+
+.th-satu {
+  border-bottom: 3px solid black;
+  border-top: 3px solid black;
+  background-color: lightgray;
+  border-radius: 20px;
+  padding: 5px;
+  text-align: center;
+}
+
+.td-satu {
+  border-bottom-style: dotted;
+  border-bottom: 1px solid black;
+  padding-right: 15px;
+  width: 85%;
+  padding: 5px;
+  border-radius: 20px;
+}
+
+.tr-satu{
+  background-color: whitesmoke;
+}
+
+.tabel-satu{
+  align-items: center;
+  justify-content: space-between;
+  display: flex;
+  padding: 40px 50px;
+  background-color: black;
+  background-image: url(https://static.vecteezy.com/system/resources/previews/008/544/019/large_2x/vintage-damask-pattern-design-free-vector.jpg);
+  border-radius: 80px;
+  margin-top: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
+  border: 5px solid lightblue;
+  border-bottom: 8px solid lightblue;
+  box-shadow: 0 10px 5px rgb(117, 182, 243);
+}
+
+.table-mantap{
+  border-collapse: collapse;
+  width: 100%;
+  padding-right: 100px;
+  background-color: whitesmoke;
+  padding: 5px;
+  border-radius: 20px
+  
+  
+}
+
+.tr-dua{
+  background-color: lightblue;
+}
+.th-dua {
+  border-bottom: 20px solid black;
+  border-top: 3px solid black;
+  background-color: lightgray;
+  border-radius: 20px;
+  padding: 5px;
+  text-align: center;
+}
+
+.th-vdua{
+  text-align: center;
+  background-color: #3d3939;
+  color: white;
+} 
+
+.td-dua {
+  padding-right: 10px;
+  width: 0%;
+  padding: 10px;
+  border-radius: 20px;
+  text-align: center;
+}
+
+
+.table-dua{
+  align-items: center;
+  justify-content: space-between;
+  display: flex;
+  padding: 40px 50px;
+  background-color: black;
+  background-image: url(https://static.vecteezy.com/system/resources/previews/008/544/019/large_2x/vintage-damask-pattern-design-free-vector.jpg);
+  border-radius: 80px;
+  margin-top: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
+  border: 5px solid lightblue;
+  border-bottom: 8px solid lightblue;
+  box-shadow: 0 10px 5px rgb(117, 182, 243);
+}
+
+
+.table-tiga{
+  align-items: center;
+  padding: 40px 50px;
+  background-color: black;
+  background-image: url(https://static.vecteezy.com/system/resources/previews/008/544/019/large_2x/vintage-damask-pattern-design-free-vector.jpg);
+  border-radius: 80px;
+  margin-top: 30px;
+  margin-left: 340px;
+  margin-right: 20px;
+  border: 5px solid lightblue;
+  border-bottom: 8px solid lightblue;
+  box-shadow: 0 10px 5px rgb(117, 182, 243);
+}
+
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.h2-dua {
+  background: lightgray;
+  display: inline-block;
+  padding: 8px 12px;
+  border-radius: 20px;
+  font-size: 20px;
+}
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.card {
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 15px rgb(117, 182, 243);
+  overflow: hidden;
+  text-align: center;
+
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+}
+
+.label {
+  display: inline-block;
+  margin: 10px 0 5px;
+  padding: 4px 8px;
+  border-radius: 4px;
+  color: black;
+  font-size: 12px;
+}
+
+.label.edukasi { background: lightblue; }
+.label.siswa { background: lightblue; }
+.label.inspirasi { background: lightblue; }
+.label.informasi { background: lightblue; }
+
+.card p {
+  padding: 0 10px 15px;
+  font-size: 14px;
+}
+
+footer{
+  background-color: black;
+  height: 120px;
+  padding: 50px;
+  margin-top: 20px;
+  background-image: url(https://static.vecteezy.com/system/resources/previews/008/544/019/large_2x/vintage-damask-pattern-design-free-vector.jpg);
+}
+
+.kontak-dll{
+  color: white;
+  text-align: left;
+  justify-content: space-between;
+  gap: 250px;
+  display: flex;
+  margin: 0 400px 400px;
+}
+
+.telp-aku{
+  display: flex;
+  align-items: center;
+
+}
+
+.icon-telp{
+  width: 30px;
+    height: 30px;
+    display: block;
+}
+
+.email-aku{
+  display: flex;
+  align-items: center;
+
+}
+
+.icon-email{
+  width: 30px;
+    height: 30px;
+    display: block;
+}
+
+.ig-aku{
+  display: flex;
+  align-items: center;
+
+}
+
+.icon-ig{
+  width: 30px;
+    height: 30px;
+    display: block;
+}
+
+.tulis-telp{
+  color: white;
+  font-size: 15px;
+  text-decoration: none;
+}
+
+.tulis-email{
+  color: white;
+  font-size: 15px;
+  text-decoration: none;
+}
+
+.tulis-ig{
+  color: white;
+  font-size: 15px;
+  text-decoration: none;
+}

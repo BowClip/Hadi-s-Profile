@@ -1,0 +1,122 @@
+.fa-solid.fa-circle-user{
+    color: red;
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+.material-symbols-outlined{
+    color: red;
+    font-size: 40px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+img.icon-img{
+    width: 50px;
+    height: 50px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+p {
+    color: #120287;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: green;
+}
+
+h1 {
+    color: #1d1556;
+    text-align: center;
+    font-size: 70px;
+    margin-top: 0px;
+    font-style: initial;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: lightgreen;
+}
+
+.highlight{
+    color: rgb(122, 94, 112);
+    text-align: center;
+    font-size: 80px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #155635;
+}
+#header-utama {
+    color: #152256;
+    background-color: #155635;
+
+}
+
+  div{
+    background-color: lightslategray;
+  }
+  body{
+    background-color: #3c225b;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 8px;
+    margin-top: 0px;
+    margin-bottom: 0px
+  }
+
+  body{
+    background-image: url(https://c.wallhere.com/photos/f4/3c/landscape_rocks_nature_water-28421.jpg!d);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+
+  p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+}
+
+.gambar-bulat{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.gambar-sudut-lembut {
+    width: 200px;
+    height: auto;
+    border-radius: 15px;
+}
+#buat-gambar-satu{color:red}
+#buat-gambar-dua{color:red}
+
+table,th,td{
+    border: 3px solid #000;
+    border-collapse: collapse;
+    color: #333;
+    font-size: 18px;
+}
+
+table {
+    width: 100%;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
+th, td{
+    padding: 15px;
+    text-align: center;
+}
+
+th{
+    background-color: #ffcccb;
+
+}
+
+td{
+    background-color: #edf5ff;
+}
+    
+
+
